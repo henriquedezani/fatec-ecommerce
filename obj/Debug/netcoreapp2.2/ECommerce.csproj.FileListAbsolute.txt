@@ -1,0 +1,14 @@
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\bin\Debug\netcoreapp2.2\ECommerce.deps.json
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\bin\Debug\netcoreapp2.2\ECommerce.runtimeconfig.json
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\bin\Debug\netcoreapp2.2\ECommerce.runtimeconfig.dev.json
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\bin\Debug\netcoreapp2.2\ECommerce.dll
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\bin\Debug\netcoreapp2.2\ECommerce.pdb
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.csprojAssemblyReference.cache
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.RazorAssemblyInfo.cache
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.RazorAssemblyInfo.cs
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.AssemblyInfoInputs.cache
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.AssemblyInfo.cs
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.RazorTargetAssemblyInfo.cache
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.dll
+C:\Users\MAQ01LAB04\Documents\dezani\ECommerce\obj\Debug\netcoreapp2.2\ECommerce.pdb
